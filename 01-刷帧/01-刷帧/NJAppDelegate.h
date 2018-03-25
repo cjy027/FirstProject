@@ -10,6 +10,6 @@
 
 @interface NJAppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *wissssndow;
+@property (strong, nonatomic) UIWindow *wissdadasssssndow;
 
 @end
