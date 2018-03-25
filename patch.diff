@@ -1,0 +1,24 @@
+From c7494e391627ae6d9da4c3198b202a3a64ffaed5 Mon Sep 17 00:00:00 2001
+From: cjy <563482721@qq.com>
+Date: Sun, 25 Mar 2018 17:49:59 +0800
+Subject: [PATCH] no message
+
+---
+ 01-刷帧/01-刷帧/NJAppDelegate.h | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/01-刷帧/01-刷帧/NJAppDelegate.h b/01-刷帧/01-刷帧/NJAppDelegate.h
+index 98e715b..5cb2c85 100755
+--- a/01-刷帧/01-刷帧/NJAppDelegate.h
++++ b/01-刷帧/01-刷帧/NJAppDelegate.h
+@@ -10,6 +10,6 @@
+ 
+ @interface NJAppDelegate : UIResponder <UIApplicationDelegate>
+ 
+-@property (strong, nonatomic) UIWindow *window;
++@property (strong, nonatomic) UIWindow *wissssndow;
+ 
+ @end
+-- 
+2.2.1
+
